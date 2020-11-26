@@ -1,4 +1,4 @@
-# budget web app
+# Budget Web App
 A simple budget mangement web app. Helps to keep track of daily budget changes.
 
 Features:
@@ -8,5 +8,5 @@ Features:
 
 <h3>Screen Shots</h3>
 
-<img src="/screenshots/sc1.jpg" height="50%" width="50%" >
-<img src="/screenshots/sc2.jpg" height="50%" width="50%" >
+<img src="/Screenshots/sc1.jpg" height="50%" width="50%" >
+<img src="/Screenshots/sc2.jpg" height="50%" width="50%" >
