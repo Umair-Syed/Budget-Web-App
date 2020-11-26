@@ -8,5 +8,5 @@ Features:
 
 <h3>Screen Shots</h3>
 
-<img src="/Screenshots/sc1.jpg" height="50%" width="50%" >
-<img src="/Screenshots/sc2.jpg" height="50%" width="50%" >
+<img src="/Screenshots/sc1.jpg" height="100%" width="100%" >
+<img src="/Screenshots/sc2.jpg" height="100%" width="100%" >
