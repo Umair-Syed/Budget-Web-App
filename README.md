@@ -1,5 +1,5 @@
 # Budget Web App
-A simple budget mangement web app. Helps to keep track of daily budget changes.
+A simple budget management web app. Helps to keep track of daily budget changes.
 
 <h3>Features:</h3>
 <ol>
